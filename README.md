@@ -5,7 +5,7 @@ Weather Station:
 Here we used an actual temperature sensor connected to a fan to plot the temperature. We then controlled it back with the fan value. The fan ran and stopped when the minimum temperature was reached and started when the maximum temperature was reached. Other control options also available.
 
 See full working video at:
-https://youtu.be/ 
+
 [![](https://img.youtube.com/vi/TEqhlfEjvhA/0.jpg)]
 
 
@@ -14,5 +14,5 @@ This uses a RFID based hardware connected to LabVIEW via Serial over USB to open
 
 See full working at:
 
-[![](https://img.youtube.com/vi/TEqhlfEjvhA/0.jpg)]
+[![](https://img.youtube.com/vi/61UB72A0j_0/0.jpg)]
 
